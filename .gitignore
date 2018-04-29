@@ -1,0 +1,6 @@
+.*
+
+*.iso
+net-installer
+
+!.gitignore
